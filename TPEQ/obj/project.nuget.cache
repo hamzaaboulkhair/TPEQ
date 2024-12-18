@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "agB1ZnPyzRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Bureau\\tpeq\\TPEQ\\TPEQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\nunit\\4.3.0\\nunit.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
